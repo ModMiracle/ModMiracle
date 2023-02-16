@@ -1,7 +1,7 @@
 <h2> Hi, I'm Roniel Bless Bragas (ModMiracle)<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-[![Twitter:? nielbrags](https://img.shields.io/twitter/follow/libyzxy0?style=social)](https://twitter.com/libyzxy0)
-[![GitHub ModMiracle](https://img.shields.io/github/followers/libyzxy0?label=follow&style=social)](https://github.com/libyzxy0)
+[![Twitter:? nielbrags]
+[![GitHub ModMiracle]
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  

@@ -1,7 +1,4 @@
 <h2> Hi, I'm Roniel Bless Bragas (ModMiracle)<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://m.facebook.com/photo.php/?fbid=101847786123501" width="90">
-<p><em>Visit my portfolio here <a href="https://liby0.vercel.app">Libyyy</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer at <a href="https://api.libyzxy0.repl.co">API-LIBYZXY0</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
 
 [![Twitter:? nielbrags](https://img.shields.io/twitter/follow/libyzxy0?style=social)](https://twitter.com/libyzxy0)
 [![GitHub ModMiracle](https://img.shields.io/github/followers/libyzxy0?label=follow&style=social)](https://github.com/libyzxy0)

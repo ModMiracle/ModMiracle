@@ -16,6 +16,6 @@ const Mod = {
            Username: "Mod",
            Age: 22
         },
- Motto: "Kung kaya ng iba, ipagawa mo sa kanila."
+ Motto: "Kung kaya ng iba, paturo ka sa kanila."
 }
 ```

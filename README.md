@@ -13,7 +13,7 @@ const Mod = {
   Code: [Php, Java],
   Info: {
            Name: "Roniel Bless Bragas",
-           Username: "Mod",
+           Username: "Daisuke",
            Age: 22
         },
  Motto: "Kung kaya ng iba, paturo ka sa kanila."
